@@ -1,0 +1,37 @@
+# JUCE Auto-Generated Files
+JuceLibraryCode/
+JuceModules/
+
+# Build Artifacts
+Builds/
+build/
+CMakeBuild/
+CMakeFiles/
+CMakeCache.txt
+*.o
+*.obj
+*.so
+*.dylib
+*.a
+*.lib
+*.dll
+*.exe
+
+# Project Files
+*.xcodeproj
+*.xcworkspace
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
+
+# IDE and OS files
+.idea/
+.vscode/
+*.sublime-*
+.DS_Store
+Thumbs.db
+
+# Backup and Lock Files
+*.jucer.backup
+*.jucer.lock
